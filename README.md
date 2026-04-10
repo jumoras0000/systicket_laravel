@@ -26,18 +26,8 @@ Application de gestion de tickets et suivi de projets développée avec **Larave
 
 - PHP 8.2+
 - Composer
-- MySQL 8.0+
+- SQLite
 - Node.js (optionnel, pour les assets)
-
-## Installation Rapide (Recommandé avec Laragon)
-
-Pour la **solution la plus rapide et simple** sur Windows :
-
-👉 **[QUICK_START_LARAGON.md](QUICK_START_LARAGON.md)** - Installation complète en 10 minutes
-
-Si vous préférez une installation manuelle ou avez besoin de détails :
-
-👉 **[INSTALLATION.md](INSTALLATION.md)** - Guide complet d'installation
 
 ## Setup Rapide (Manuel)
 
@@ -64,11 +54,6 @@ php artisan serve
 ```
 
 L'application est accessible sur `http://localhost:8000`
-
-**OU** exécutez le script d'installation automatisé :
-```bash
-SETUP.bat
-```
 
 ## Comptes de démonstration
 
